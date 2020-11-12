@@ -29,19 +29,6 @@ def pluralize(lst):
     
 
     return final
-pluralize(["othmane","othmane","raw","hey","lol"])
-
-
-# In[32]:
-
-
-d={}
-d["ZDZ"]=[5,4]
-for value in d:
-    print(d)
-
-
-# In[ ]:
 
 
 
